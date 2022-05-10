@@ -1,0 +1,42 @@
+using System;
+					
+public class Program{
+	class Catalogo {
+		private int taller;
+		
+		public void method(){
+			Console.WriteLine("Hola soy un catalogo de talleres");
+		}
+	}
+	public static void Main(){
+		Catalogo catalogo = new Catalogo();
+		catalogo.method();
+		
+	}
+	public class Catalogo1{
+	class CatalogoProducto : Catalogo{
+		private int ProductoTaller;
+		
+		public void method2(){
+			Console.WriteLine("Hola soy un producto del catalogo");
+		}
+			
+	}
+	public static void Main(){
+		CatalogoProducto obj = new CatalogoProducto();
+		}
+	}	
+	public class Catalogo2{
+		class CatalogoServicio : Catalogo{
+		private int ServicioTaller;
+		
+		public void method2(){
+			Console.WriteLine("Hola soy un servicio del catalogo");
+		}
+			
+	}
+	public static void Main(){
+		CatalogoServicio obj = new CatalogoServicio();
+		}
+   }
+}
