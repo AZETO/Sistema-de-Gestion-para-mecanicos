@@ -1,0 +1,15 @@
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\bin\Debug\net6.0\ProyectoTalleresMecanicos.exe
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\bin\Debug\net6.0\ProyectoTalleresMecanicos.deps.json
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\bin\Debug\net6.0\ProyectoTalleresMecanicos.runtimeconfig.json
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\bin\Debug\net6.0\ProyectoTalleresMecanicos.dll
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\bin\Debug\net6.0\ProyectoTalleresMecanicos.pdb
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.csproj.AssemblyReference.cache
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.AssemblyInfoInputs.cache
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.AssemblyInfo.cs
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.csproj.CoreCompileInputs.cache
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.dll
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\refint\ProyectoTalleresMecanicos.dll
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.pdb
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ProyectoTalleresMecanicos.genruntimeconfig.cache
+C:\Users\sergio\source\repos\ProyectoTalleresMecanicos\ProyectoTalleresMecanicos\obj\Debug\net6.0\ref\ProyectoTalleresMecanicos.dll
