@@ -97,7 +97,7 @@ Catalogoservicio catalogop1 = new Catalogoservicio ();
 
 catalogop1.Catalogoservicio_id = 1;
 catalogop1.Catalogoservicio_fecha_cita = 26082022;
-catalogop1.Catalogoservicio_nombre_dueño = " Alfredo";
+catalogop1.Catalogoservicio_nombre_dueño(a) = " Alfredo";
 catalogop1.Catalogoservicio_modelo_vehiculo = " Toyota Corolla";
 catalogop1.Catalogoservicio_año_modelo = 2020;
 catalogop1.Catalogoservicio_motivo_servicio = " Problemas en la caja de cambio";
@@ -224,7 +224,7 @@ Catalogoservicio catalogop22 = new Catalogoservicio();
 
 catalogop22.Catalogoservicio_id = 2;
 catalogop22.Catalogoservicio_fecha_cita = 13072022;
-catalogop22.Catalogoservicio_nombre_dueño = " Maria";
+catalogop22.Catalogoservicio_nombre_dueño(a) = " Maria";
 catalogop22.Catalogoservicio_modelo_vehiculo = " BMW 2002 Turbo";
 catalogop22.Catalogoservicio_año_modelo = 1973;
 catalogop22.Catalogoservicio_motivo_servicio = " Restauracion de motor ";
