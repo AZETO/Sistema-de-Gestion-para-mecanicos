@@ -111,7 +111,7 @@ CREATE TABLE `usuario_cliente` (
   `nombre` varchar(200) NOT NULL,
   `usuario` varchar(200) NOT NULL,
   `rut` varchar(25) NOT NULL,
-  `telefono` longtext NOT NULL,
+  `telefono` varchar(200) NOT NULL,
   `direccion` varchar(100) NOT NULL,
   `correo` varchar(100) NOT NULL,
   `password` varchar(100) NOT NULL,
