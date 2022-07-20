@@ -115,7 +115,7 @@ CREATE TABLE `usuario_cliente` (
   `direccion` varchar(100) NOT NULL,
   `correo` varchar(100) NOT NULL,
   `password` varchar(100) NOT NULL,
-  `fecha` int(11) NOT NULL
+  `fecha` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
@@ -141,6 +141,7 @@ CREATE TABLE `valoracion` (
   `ID_valo` int(11) NOT NULL,
   `tipo_servicio` varchar(100) NOT NULL,
   `comentario` varchar(100) NOT NULL,
+  `fecha` date NOT NULL
   `nota` int(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
