@@ -171,6 +171,12 @@ ALTER TABLE `perfil_taller`
 --
 ALTER TABLE `registro_auto`
   ADD PRIMARY KEY (`ID`);
+  
+--
+-- Indices de la tabla `servicio`
+--
+ALTER TABLE `servicio`
+  ADD PRIMARY KEY (`id_servicio`);
 
 --
 -- Indices de la tabla `usuario_cliente`
@@ -217,6 +223,12 @@ ALTER TABLE `perfil_taller`
 --
 ALTER TABLE `registro_auto`
   MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT;
+  
+  --
+-- AUTO_INCREMENT de la tabla `servicio`
+--
+ALTER TABLE `servicio`
+  MODIFY `id_servicio` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT de la tabla `usuario_cliente`
